@@ -4,7 +4,10 @@ Submitted to Professor Tim King, Embry-Riddle Aeronautical University, Prescott 
 
 # Authors
 Konnor Barnes
+
 Matthew Hassoun
+
 Sydney Johnson
+
 Daniel Nolan
 
